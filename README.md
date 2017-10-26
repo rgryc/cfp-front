@@ -25,4 +25,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-# cfp-front
+
+## Others
+The Chrome Webstore an [extension](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi) that adds the 'Access-Control-Allow-Origin' header for you when there is an asynchronous call in the page that tries to access a different host than yours.
+
